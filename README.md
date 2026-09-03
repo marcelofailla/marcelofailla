@@ -1,9 +1,3 @@
-# Olá, eu sou o Marcelo Failla! 👋
-
-Gestor Ambiental e Analista GIS especializado em geoprocessamento aplicado à saúde pública, planejamento urbano e análises socioambientais.
-
----
-
 ## 🔬 Produção Científica & Perfil Acadêmico
 
 Você pode acompanhar meus projetos de pesquisa, artigos publicados e identificadores acadêmicos internacionais através das plataformas abaixo:
