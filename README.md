@@ -19,24 +19,26 @@ Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no d
 * **Google Earth Engine (GEE):** Classificação e restituição de imagens de sensores e mapas dinâmicos.
 * **Cartografia Digital:** Geocodificação de endereços, georreferenciamento de eventos e delimitação de áreas.
 
-### 💻 Linguagens & Análise de Dados
+### 💻 Linguagens & Ambientes de Análise
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Linguagens de Programação" />
+    <img src="https://skillicons.dev" alt="Linguagens e Ambientes" />
   </a>
 </p>
 
-* **Python & R:** Automação de processos geoespaciais, análise estatística e tratamento de grandes bases de dados.
+* **Python & Jupyter Notebook:** Automação de processos geoespaciais, análise estatística e tratamento de grandes bases de dados.
+* **R:** Modelagem de dados, análise espacial estruturada e manipulação estatística.
 * **JavaScript & HTML:** Criação de webmaps dinâmicos e ferramentas de consulta territorial.
 
-### 🗄️ Bancos de Dados & Ferramentas
+### 🗄️ Bancos de Dados & Gerenciamento
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev" alt="Bancos de Dados e Infra" />
   </a>
 </p>
 
-* **PostgreSQL / MySQL:** Modelagem e manipulação de bancos de dados geográficos.
+* **PostgreSQL & PostGIS:** Modelagem, armazenamento e manipulação avançada de bancos de dados geográficos.
+* **DBeaver:** Interface unificada para administração, consultas SQL e gerência de bases relacionais.
 * **Git & GitHub:** Controle de versão e compartilhamento de soluções em geoprocessamento.
 
 ---
