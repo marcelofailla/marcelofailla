@@ -1,6 +1,6 @@
 # 🔬 Produção Científica & Perfil Acadêmico
 
-Você pode acompanhar meus projetos de pesquisa, artigos publicados e identificadores acadêmicos internacionais através das plataformas abaixo:
+Projetos de pesquisa, artigos publicados e identificadores acadêmicos internacionais através das plataformas abaixo:
 
 [![Currículo Lattes](https://shields.io)](http://lattes.cnpq.br/7348318962497209)
 [![ORCID](https://shields.io)](https://orcid.org/0000-0002-9004-7309)
@@ -12,7 +12,7 @@ Você pode acompanhar meus projetos de pesquisa, artigos publicados e identifica
 
 ## 🛠️ Tecnologias e Ferramentas (Tech Skills)
 
-Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no desenvolvimento de SIG, tratamento de bases de dados e cartografia digital:
+Principais ferramentas, linguagens e tecnologias que utilizo no desenvolvimento de SIG, tratamento de bases de dados e cartografia digital:
 
 ### 🌍 Geoprocessamento & SIG
 [![Geoprocessamento](https://skillicons.dev)](https://skillicons.dev)
