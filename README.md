@@ -21,21 +21,21 @@ Você pode acompanhar meus projetos de pesquisa, artigos publicados e identifica
 Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no desenvolvimento de SIG, tratamento de bases de dados e cartografia digital:
 
 ### 🌍 Geoprocessamento & SIG
-![QGIS](https://shields.io) ![ArcGIS](https://shields.io) ![Google Earth Engine](https://shields.io)
+![QGIS](https://badgen.net) ![ArcGIS](https://badgen.net) ![Google Earth Engine](https://badgen.net)
 
 * **QGIS & ArcGIS:** Desenvolvimento de SIG, análise espacial e elaboração de mapas digitais/impressos.
 * **Google Earth Engine (GEE):** Classificação e restituição de imagens de sensores e mapas dinâmicos.
 * **Cartografia Digital:** Geocodificação de endereços, georreferenciamento de eventos e delimitação de áreas.
 
 ### 💻 Linguagens & Ambientes de Análise
-![Python](https://shields.io) ![Jupyter](https://shields.io) ![R](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io)
+![Python](https://badgen.net) ![Jupyter](https://badgen.net) ![R](https://badgen.net) ![JavaScript](https://badgen.net) ![HTML5](https://badgen.net)
 
 * **Python & Jupyter Notebook:** Automação de processos geoespaciais, análise estatística e tratamento de grandes bases de dados.
 * **R:** Modelagem de dados, análise espacial estruturada e manipulação estatística.
 * **JavaScript & HTML:** Criação de webmaps dinâmicos e ferramentas de consulta territorial.
 
 ### 🗄️ Bancos de Dados & Gerenciamento
-![PostgreSQL](https://shields.io) ![PostGIS](https://shields.io) ![DBeaver](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+![PostgreSQL](https://badgen.net) ![PostGIS](https://badgen.net) ![DBeaver](https://badgen.net) ![Git](https://badgen.net) ![GitHub](https://badgen.net)
 
 * **PostgreSQL & PostGIS:** Modelagem, armazenamento e manipulação avançada de bancos de dados geográficos.
 * **DBeaver:** Interface unificada para administração, consultas SQL e gerência de bases relacionais.
