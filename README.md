@@ -21,21 +21,21 @@ Você pode acompanhar meus projetos de pesquisa, artigos publicados e identifica
 Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no desenvolvimento de SIG, tratamento de bases de dados e cartografia digital:
 
 ### 🌍 Geoprocessamento & SIG
-![QGIS](https://badgen.net) ![ArcGIS](https://badgen.net) ![Google Earth Engine](https://badgen.net)
+[![Geoprocessamento](https://skillicons.dev)](https://skillicons.dev)
 
 * **QGIS & ArcGIS:** Desenvolvimento de SIG, análise espacial e elaboração de mapas digitais/impressos.
 * **Google Earth Engine (GEE):** Classificação e restituição de imagens de sensores e mapas dinâmicos.
 * **Cartografia Digital:** Geocodificação de endereços, georreferenciamento de eventos e delimitação de áreas.
 
 ### 💻 Linguagens & Ambientes de Análise
-![Python](https://badgen.net) ![Jupyter](https://badgen.net) ![R](https://badgen.net) ![JavaScript](https://badgen.net) ![HTML5](https://badgen.net)
+[![Linguagens](https://skillicons.dev)](https://skillicons.dev)
 
 * **Python & Jupyter Notebook:** Automação de processos geoespaciais, análise estatística e tratamento de grandes bases de dados.
 * **R:** Modelagem de dados, análise espacial estruturada e manipulação estatística.
 * **JavaScript & HTML:** Criação de webmaps dinâmicos e ferramentas de consulta territorial.
 
 ### 🗄️ Bancos de Dados & Gerenciamento
-![PostgreSQL](https://badgen.net) ![PostGIS](https://badgen.net) ![DBeaver](https://badgen.net) ![Git](https://badgen.net) ![GitHub](https://badgen.net)
+[![Dados e Infra](https://skillicons.dev)](https://skillicons.dev)
 
 * **PostgreSQL & PostGIS:** Modelagem, armazenamento e manipulação avançada de bancos de dados geográficos.
 * **DBeaver:** Interface unificada para administração, consultas SQL e gerência de bases relacionais.
