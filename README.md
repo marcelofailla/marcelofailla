@@ -1,4 +1,4 @@
-## 🔬 Produção Científica & Perfil Acadêmico
+# 🔬 Produção Científica & Perfil Acadêmico
 
 Você pode acompanhar meus projetos de pesquisa, artigos publicados e identificadores acadêmicos internacionais através das plataformas abaixo:
 
