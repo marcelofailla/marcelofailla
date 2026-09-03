@@ -23,6 +23,9 @@ Aqui estão as principais ferramentas, linguagens e tecnologias que utilizo no d
 ### 🌍 Geoprocessamento & SIG
 ![QGIS](https://shields.io) ![ArcGIS](https://shields.io) ![Google Earth Engine](https://shields.io)
 
+![QGIS](https://shields.io) ![ArcGIS](https://shields.io) ![Google Earth Engine](https://shields.io)
+
+
 * **QGIS & ArcGIS:** Desenvolvimento de SIG, análise espacial e elaboração de mapas digitais/impressos.
 * **Google Earth Engine (GEE):** Classificação e restituição de imagens de sensores e mapas dinâmicos.
 * **Cartografia Digital:** Geocodificação de endereços, georreferenciamento de eventos e delimitação de áreas.
