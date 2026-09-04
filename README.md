@@ -2,7 +2,9 @@
 
 Projetos de pesquisa, artigos publicados e identificadores acadêmicos internacionais através das plataformas abaixo:
 
-[![Currículo Lattes](https://github.com/user-attachments/assets/ba61ebeb-b326-4eed-b302-7a993f3d2d57)](http://lattes.cnpq.br/7348318962497209)
+<a href="http://lattes.cnpq.br/7348318962497209">
+  <img src="https://github.com/user-attachments/assets/ba61ebeb-b326-4eed-b302-7a993f3d2d57" alt="Currículo Lattes" height="30">
+</a>
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9004-7309)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marcelo-Failla-2)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=pt-BR&user=EhqkpV0AAAAJ&view_op=list_works&sortby=pubdate)
