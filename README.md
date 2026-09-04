@@ -7,7 +7,7 @@ Projetos de pesquisa, artigos publicados e identificadores acadêmicos internaci
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=pt-BR&user=EhqkpV0AAAAJ&view_op=list_works&sortby=pubdate)
 [![Web of Science](https://img.shields.io/badge/Web_of_Science-5E33BF?style=for-the-badge&logo=clarivate&logoColor=white)]([https://scopus.com](https://www.webofscience.com/wos/author/record/V-3978-2019))
 <a href="http://lattes.cnpq.br/7348318962497209">
-  <img src="https://github.com/user-attachments/assets/c65b471a-010d-4ba9-8dec-ca0775d39c72" alt="Currículo Lattes" height="28.2"> 
+  <img src="https://github.com/user-attachments/assets/be9e228f-5b1f-4984-bead-b1d9cd92d762" alt="Currículo Lattes" height="28.2"> 
 </a>
 ---
 
